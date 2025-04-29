@@ -36,7 +36,10 @@ Retrieval-Augmented Generation (RAG)
    :maxdepth: 3
    :caption: Introduction
 
-   Documentation/scripts/Scope/introduction.rst
+   dociumentation/script/files.rst
+
+
+
 
 
 
